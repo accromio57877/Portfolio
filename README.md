@@ -2,7 +2,7 @@
 ## remon
 
 # Git Order
-###- git status
-###- git add *
-###- git commit -m "step#"
-###- git push origin main
+### - git status
+### - git add *
+### - git commit -m "step#"
+### - git push origin main
